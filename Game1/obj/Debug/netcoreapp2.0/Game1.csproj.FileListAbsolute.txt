@@ -1,0 +1,10 @@
+/Users/linnjohansson/RiderProjects/Game1/Game1/bin/Debug/netcoreapp2.0/Game1.deps.json
+/Users/linnjohansson/RiderProjects/Game1/Game1/bin/Debug/netcoreapp2.0/Game1.runtimeconfig.json
+/Users/linnjohansson/RiderProjects/Game1/Game1/bin/Debug/netcoreapp2.0/Game1.runtimeconfig.dev.json
+/Users/linnjohansson/RiderProjects/Game1/Game1/bin/Debug/netcoreapp2.0/Game1.dll
+/Users/linnjohansson/RiderProjects/Game1/Game1/bin/Debug/netcoreapp2.0/Game1.pdb
+/Users/linnjohansson/RiderProjects/Game1/Game1/obj/Debug/netcoreapp2.0/Game1.csproj.CoreCompileInputs.cache
+/Users/linnjohansson/RiderProjects/Game1/Game1/obj/Debug/netcoreapp2.0/Game1.AssemblyInfoInputs.cache
+/Users/linnjohansson/RiderProjects/Game1/Game1/obj/Debug/netcoreapp2.0/Game1.AssemblyInfo.cs
+/Users/linnjohansson/RiderProjects/Game1/Game1/obj/Debug/netcoreapp2.0/Game1.dll
+/Users/linnjohansson/RiderProjects/Game1/Game1/obj/Debug/netcoreapp2.0/Game1.pdb
